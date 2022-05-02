@@ -1,0 +1,5 @@
+neus_theme = I feel you - Kevin MacLeod
+
+didac_theme = Arid Foothils - Kevin MacLeod (African)
+
+meritxell_theme = Reminisce - AlcaKnight
